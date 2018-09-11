@@ -1,2 +1,2 @@
 # ScrapingTutorial
-Exploring ML results from scraping news
+Exploring how the quality of news can be derived from ML results got from scraping links.
